@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="123.3" height="144.046" viewBox="0 0 123.3 144.046">
+    <defs>
+        <radialGradient id="8hj5x6lwka" cx=".5" cy=".5" r=".5" gradientUnits="objectBoundingBox">
+            <stop offset="0" stop-color="#ff0720"/>
+            <stop offset="1" stop-color="#c10013"/>
+        </radialGradient>
+    </defs>
+    <g>
+        <g>
+            <g>
+                <path fill="url(#8hj5x6lwka)" d="M57.539 131.758L0 131.756V0h95.161L57.536 131.756z" transform="translate(5.155) translate(22.984)"/>
+                <g transform="translate(5.155) translate(0 133.933)">
+                    <ellipse cx="27.5" cy="2.5" opacity="0.852" rx="27.5" ry="2.5" transform="translate(0 -.042)"/>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

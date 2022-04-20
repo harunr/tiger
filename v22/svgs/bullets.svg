@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="40px" height="40px" viewBox="15 9.001 40 40" enable-background="new 15 9.001 40 40" xml:space="preserve">
+<filter  id="jynoi7qv1a" y="0" x="0" height="70" width="70" filterUnits="userSpaceOnUse">
+	<feOffset  dy="6"></feOffset>
+	<feGaussianBlur  result="blur" stdDeviation="5"></feGaussianBlur>
+	<feFlood  flood-opacity=".161"></feFlood>
+	<feComposite  in2="blur" operator="in"></feComposite>
+	<feComposite  in="SourceGraphic" operator="over"></feComposite>
+</filter>
+<g transform="translate(0 .001)" filter="url(#jynoi7qv1a)">
+	<circle fill="#D90016" cx="35" cy="29" r="20"/>
+	<text transform="matrix(1 0 0 1 28.9966 33.2451)" fill="#FFFFFF" font-family="'GillSans-UltraBold'" font-size="18">+</text>
+</g>
+</svg>

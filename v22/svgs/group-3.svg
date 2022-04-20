@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="17" height="17" viewBox="0 0 17 17">
+    <defs>
+        <path id="f7yci0e2aa" d="M3.894 3.233L.96 5.903c-.142.13-.371.13-.513 0l-.342-.311c-.141-.129-.141-.337 0-.466L2.43 3 .105.874C-.035.745-.035.537.106.408L.448.097c.142-.13.371-.13.513 0l2.933 2.67c.141.129.141.337 0 .466z"/>
+    </defs>
+    <g fill="none" fill-rule="evenodd">
+        <g>
+            <g>
+                <g transform="translate(-264 -111) translate(57 -130) translate(207 241)">
+                    <circle cx="8.5" cy="8.5" r="8.5" fill="#E00"/>
+                    <g transform="translate(7 5)">
+                        <use fill="#FFF" xlink:href="#f7yci0e2aa"/>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

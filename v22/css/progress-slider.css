@@ -1,0 +1,45 @@
+.progress {float: left; display: block; width: 81%; height: 4px; border-radius: 2px; background-color: #7e7e7e ; background-image: -webkit-gradient(linear, left top, right top, from(#d90016), to(#d90016)); background-image: linear-gradient(to right, #d90016, #d90016); background-repeat: no-repeat; background-size: 4px 100%; -webkit-transition: background-size .4s ease-in-out; transition: background-size .4s ease-in-out; position: relative; z-index: 9;}
+/*.progress:after{content: ''; position: absolute; width: 100%; height: 1px; left: 0; top: 1.5px; background-color: #7e7e7e ;}*/
+
+/**
+*  Demo Styles from the Slick Slider
+*  website
+*/
+body {
+background-color: #3498db;
+}
+
+.content {
+margin: auto;
+padding: 20px;
+width: 600px;
+}
+
+.slider {
+margin: 0 auto 50px;
+    padding-top: 60px;
+}
+
+.image {
+padding: 10px;
+}
+
+img {
+border: 5px solid #FFF;
+display: block;
+width: 100%;
+}
+
+.sr-only {
+position: absolute;
+width: 1px;
+height: 1px;
+padding: 0;
+margin: -1px;
+overflow: hidden;
+clip: rect(0, 0, 0, 0);
+border: 0;
+}
+
+
+.similar-tyre-progressbar{ margin-left: 17px;}
